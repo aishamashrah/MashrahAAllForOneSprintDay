@@ -1,0 +1,141 @@
+.index{
+    background-image: url(/assets/Screenshot\ 2023-01-12\ at\ 9.29.37\ AM.png);
+    width: 100%;
+    height: 50%;
+  font-family: fantasy;
+object-fit: cover;
+
+}
+.Mini{
+  padding-top: 6rem;
+}
+.Mini1{
+  padding-top: 6rem;
+}
+
+.Mini2{
+  padding-top: 6rem;
+}
+
+
+.text-block {
+    background-color: rgb(252, 252, 252);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+
+  text-align: center;
+  }
+  .minC{
+    background-color: rgb(108, 108, 108);
+    color: aliceblue;
+    border-radius: 1rem;
+   
+    padding-top: 7rem;
+   font-size: 2rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   padding-bottom: 1rem;
+   padding-top: 1rem;
+  text-align: center;
+  margin-top: 7rem;
+  }
+  .form{
+    
+   padding-left: 1rem;
+   padding-right: 1rem;
+   padding-bottom: 1rem;
+   padding-top: 1rem;
+  text-align: center;
+  height: 4rem;
+  }
+  .sayhello{
+  
+    background-image: url("/assets/istockphoto-1318101781-170667a-2.jpg");
+
+  }
+  .greater{
+    background-image: url("/assets/istockphoto-1318101781-170667a-2.jpg");
+
+  }
+  .title2{
+    color: rgb(19, 19, 19);
+    font-size:2rem;
+
+    font-family: fantasy;
+
+  }
+  .title1{
+    color: aliceblue;
+    font-size:4rem;
+    margin-top: 2rem;
+    font-family: fantasy;
+
+  }
+  .form1{
+margin-bottom: 80px;
+
+  }
+  
+  .superLarge{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 4rem;
+    font-size: larger;
+
+  }
+
+  .pag3btn{
+    color: rgb(17, 18, 19);
+    text-align: center;
+    margin-top: 4rem;
+    font-size: larger;
+
+  }
+
+  .page3t{
+color: aliceblue;
+margin-top: 4rem;
+  }
+
+  .recersetext{
+    color: aliceblue;
+    margin-top: 4rem;
+  }
+.addingT{
+color: rgb(243, 249, 255);
+margin-top: 2rem;
+margin-bottom: 3rem;
+}
+.textadding{
+    color: aliceblue;
+    margin-top: 4rem;
+}
+.text{
+    color: aliceblue;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+ font-weight: 300;
+}
+.texthere{
+    color: aliceblue;
+    font-size: 2rem;
+    margin-top: 4rem;
+    font-weight: 300;
+}
+.studentsinfo{
+    color: aliceblue;
+}
+.textasking{
+    color: aliceblue;
+    margin-top: 4rem;
+}
+.btnask {
+    margin-Top: 4rem;
+}
+.spen{
+color: aliceblue;
+}
+.options{
+    color: aliceblue;
+}
