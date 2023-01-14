@@ -120,7 +120,7 @@ margin-bottom: 3rem;
 .texthere{
     color: aliceblue;
     font-size: 2rem;
-    margin-top: 4rem;
+   
     font-weight: 300;
 }
 .studentsinfo{
@@ -129,13 +129,27 @@ margin-bottom: 3rem;
 .textasking{
     color: aliceblue;
     margin-top: 4rem;
+    
 }
 .btnask {
     margin-Top: 4rem;
 }
 .spen{
+  margin-top: 4rem;
 color: aliceblue;
 }
 .options{
     color: aliceblue;
+}
+.textgrather{
+  padding-top: 4rem;
+  color: rgb(255, 249, 242);
+  font-size: 2rem;
+}
+.formstudent{
+width: 30rem;
+height:2rem;
+}
+.navcolor{
+  background-color: rgb(108, 108, 108);
 }
