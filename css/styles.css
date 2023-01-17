@@ -1,5 +1,5 @@
 .index{
-    background-image: url(/assets/Screenshot\ 2023-01-12\ at\ 9.29.37\ AM.png);
+    background-image: url(../assets/Screenshot\ 2023-01-12\ at\ 9.29.37\ AM.png);
     width: 100%;
     height: 50%;
   font-family: fantasy;
@@ -51,11 +51,11 @@ object-fit: cover;
   }
   .sayhello{
   
-    background-image: url("/assets/istockphoto-1318101781-170667a-2.jpg");
+    background-image: url("../assets/istockphoto-1318101781-170667a-2.jpg");
 
   }
   .greater{
-    background-image: url("/assets/istockphoto-1318101781-170667a-2.jpg");
+    background-image: url("../assets/istockphoto-1318101781-170667a-2.jpg");
 
   }
   .title2{
